@@ -1,0 +1,7 @@
+<bound method WikipediaPageSection.section_by_title of Section: Projects (1):
+
+Subsections (1):
+Section: The Humanities Indicators (2):
+A project of the Academy that equips researchers, policymakers, universities, foundations, museums, libraries, humanities councils, and other public institutions with statistical tools for answering basic questions about primary and secondary humanities education, undergraduate and graduate education in the humanities, the humanities workforce, levels and sources of program funding, public understanding and impact of the humanities, and other areas of concern in the humanities community. It is modeled on the Science and Engineering Indicators, published biennially by the National Science Board as required by Congress.
+Subsections (0):
+>
